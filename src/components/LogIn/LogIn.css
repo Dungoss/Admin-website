@@ -1,0 +1,101 @@
+.root {
+    display: block;
+    width: 1515px;
+    height: 705px;
+    background-color: darkgray;
+      
+}
+
+.login {
+    width: 1245px;
+    height: 635x;
+    display: inline-block;
+    align-items: center;
+    background-color: darkgray;
+    padding-top: 35px;
+    padding-left: 135px;
+    padding-bottom: 35px;
+    padding-right: 135px;
+
+}
+
+.login .form {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 1245px;
+    height: 635x;
+    border-radius: 10px;
+    
+}
+
+.login .form .form-in {
+    display: flex;
+    align-items: center;
+    height: 400px;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.login .login-img {
+    width: 632px;
+    height: 632px;
+    border-radius: 10px;
+}
+
+.login .login-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    font-family: Inter, sans-serif;
+    
+}
+
+.login .login-explain {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    color: rgb(164, 175, 185);
+    font-family: Inter, sans-serif;
+}
+
+.login .input-container {
+    display: flex;
+    padding-top: 20px;
+}
+
+.login .input-container .input-text {
+    display: flex;
+    width: 350px;
+    height: 50px;
+    border-radius: 3px;
+
+}
+
+.login .button-container{
+    padding-top: 20px;
+}
+
+.login .button-container .submit {
+    color: red;
+    background-color: purple;
+    width: 350px;
+    height: 50px;
+
+}
+
+input {
+    width: 300px;
+}
+
+submit
+
+form {
+    display: block;
+    height: 400px;
+    width: 635;
+}
+
+
